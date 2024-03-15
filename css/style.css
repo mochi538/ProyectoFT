@@ -26,5 +26,9 @@ main{
 footer{
     height: 10vh;
     text-align: center;
-
+}
+p{  
+    text-align: auto;
+    color: black;
+    font-size: 15px;
 }
